@@ -1,7 +1,7 @@
-# ICT171-Cloud Server Project: musfits.site
+# ICT171-Cloud Server Project: musf4rfits.site
 **Name:** Musab Imran Undre  
 **Student ID:** 35832275  
-**Server domain:** musfits.site  
+**Server domain:** musf4rfits.site  
 **IP address:**  
 
 ----- 
