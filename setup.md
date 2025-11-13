@@ -68,10 +68,10 @@ ___________________________________________________________
 1. Log in to GoDaddy account.  
 2. Go to My Products → musf4rfits.site → DNS Management.  
 3. Add or edit records:  
-| Type | Name | Value | TTL |
-|---|---|---|---|
-| A | @ | [IP] | Default |
-| CNAME | www | musf4rfits.site | Default |
+   | Type  | Name | Value            | TTL     |
+   |-------|------|------------------|---------|
+   | A     | @    | [IP]             | Default |
+   | CNAME | www  | musf4rfits.site  | Default |
 4. Save changes.  
 5. Once active, test domain:  
    http://musf4rfits.site  
