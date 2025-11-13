@@ -29,7 +29,7 @@ The project itself demonstrates actual server deployment, front-end design, and 
 | File | Description |
 |------|-------------|
 | `setup.md` | Step-by-step EC2 & Apache setup |
-| `config.md` | Apache & DNS configuration |
+| `config.md` | Apache, DNS and SSL configuration |
 | `script.sh` | Maintenance script |
 | `video.md` | Video walkthrough |
 | `/code` | Website front-end files |
