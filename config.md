@@ -22,7 +22,7 @@
 ## GoDaddy DNS Configuration
 1. To point domain to EC2 instance:  
 | Record Type | Name | Value              | Description                             |
-|-------------|------|--------------------|-----------------------------------------|
+| ------------- | ------ | -------------------- |----------------------------------------- |
 | A           | @    | [IP]               | Points main domain to EC2 instance      |
 | CNAME       | www  | musf4rfits.site    | Redirects www to root domain            |
 3. Once saved, wait 15–30 minutes for DNS propagation.
