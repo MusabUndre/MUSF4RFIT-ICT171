@@ -19,16 +19,11 @@
   sudo systemctl reload apache2  
 
 
-## GoDaddy DNS Configuration
-## D To point domain to EC2 instance:  
-| File | Description |
-|------|-------------|
-| `setup.md` | Step-by-step EC2 & Apache setup |
-| `config.md` | Apache, DNS and SSL configuration |
-| `script.sh` | Maintenance script |
-| `video.md` | Video walkthrough |
-| `/code` | Website front-end files |
-| `/screenshots` | Setup and website screenshots |
+## GoDaddy DNS Configuration  
+| Record Type | Name | Value              | Description                             |
+|-------------|------|--------------------|-----------------------------------------|
+| A           | @    | [IP]               | Points main domain to EC2 instance      |
+| CNAME       | www  | musf4rfits.site    | Redirects www to root domain            |
 3. Once saved, wait 15–30 minutes for DNS propagation.
 4. To test DNS resolution:  
    ping musf4rfits.site
