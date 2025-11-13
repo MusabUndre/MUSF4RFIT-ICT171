@@ -10,7 +10,7 @@
      ServerAlias www.musf4rfits.site  
      DocumentRoot /var/www/html  
 
-     ErrorLog ${APACHE_LOG_DIR}/error.log
+     ErrorLog ${APACHE_LOG_DIR}/error.log  
      CustomLog ${APACHE_LOG_DIR}/access.log combined
    </VirtualHost>  
 3. Enable site and disable default Apache page:  
