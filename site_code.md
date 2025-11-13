@@ -4,7 +4,7 @@
   Handles structure of the homepage.
 
 <details>
-<summary>View code for index.html</summary>
+<summary>View code for index.html, main.css, and main.js</summary>
 ```html
 <!DOCTYPE HTML>
 
