@@ -31,6 +31,7 @@
    sudo systemctl enable apache2  
 2. Visit instance IP in a web browser.
    https://[IP]
+   (Default Apache2 welcome page, if successful)  
 
 
 ## Step 4: Configuring Firewall
