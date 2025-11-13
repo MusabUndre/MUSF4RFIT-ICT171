@@ -20,7 +20,7 @@
 
 
 ## GoDaddy DNS Configuration
-1. To point domain to EC2 instance:  
+## D To point domain to EC2 instance:  
 | File | Description |
 |------|-------------|
 | `setup.md` | Step-by-step EC2 & Apache setup |
