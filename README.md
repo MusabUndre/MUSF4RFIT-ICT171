@@ -1,8 +1,8 @@
 # ICT171-Cloud Server Project: musf4rfits.site
 **Name:** Musab Imran Undre  
 **Student ID:** 35832275  
-**Server domain:** musf4rfits.site
-**IP address:**  13.48.55.181
+**Server domain:** https://musf4rfits.site  
+**IP address:**  13.48.55.181  
 **Video explainer link:** https://www.loom.com/share/aba3fe90c2fd4264bc98b004086b95f2
 
 ----- 
